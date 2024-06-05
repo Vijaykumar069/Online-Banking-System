@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@200&display=swap');
+body{
+    font-family: 'Hahmlet', serif;
+    background-color: #d5b9b2;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #f2e9e4!important;
+}
+
+.navbar-brand{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 1.8rem;
+    color: black!important;
+}
+
+.nav-link{
+    color: black!important;
+    font-family: 'Righteous', cursive;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color:#dc5a9b!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(230, 159, 67)!important;
+}
